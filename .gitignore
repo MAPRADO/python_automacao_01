@@ -1,0 +1,6 @@
+# ignore all .csv , .pdf files
+*.csv
+*.pdf
+id_automacao
+id_automacao.pub
+
